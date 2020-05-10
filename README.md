@@ -1,1 +1,3 @@
 # BibliotekaJava
+
+Szymon Podgórski
